@@ -1,1 +1,1 @@
-new content in file1
+solve conflict between master and dev
